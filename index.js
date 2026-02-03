@@ -14,7 +14,7 @@ class Heroi {
             case 'Mago':
                 ataque = 'Magia 🪄';
                 break;
-            case 'monge':
+            case 'Monge':
                 ataque = 'Artes marciais 🥋';
                 break;
             case 'Ninja':
